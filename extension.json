@@ -1,0 +1,13 @@
+{
+  "name": "HT1621",
+  "apiVersion": "1.0.0",
+  "author": "Ed Holmes",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "HT1621": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
