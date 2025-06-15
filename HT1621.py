@@ -1,6 +1,5 @@
 #   Ed Holmes
 #   edholmes(at)gmail.com
-#   Licence : https://creativecommons.org/licenses/by/4.0/
 #
 #   Developed using HT1621 datasheet v3.40
 #
