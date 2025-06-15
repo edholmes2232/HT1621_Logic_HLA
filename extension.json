@@ -1,13 +1,13 @@
 {
-  "name": "HT1621",
+  "name": "HT1621 (SPI)",
   "apiVersion": "1.0.0",
-  "author": "Ed Holmes",
-  "version": "0.0.1",
-  "description": "",
+  "author": "Ed Holmes (edholmes(at)gmail.com)",
+  "version": "1.0.0",
+  "description": "High Level Analyzer for the HT1621 SPI-like serial protocol",
   "extensions": {
     "HT1621": {
       "type": "HighLevelAnalyzer",
-      "entryPoint": "HighLevelAnalyzer.Hla"
+      "entryPoint": "HT1621.Hla"
     }
   }
 }
